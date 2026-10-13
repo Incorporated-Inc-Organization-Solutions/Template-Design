@@ -1,0 +1,10 @@
+{
+  "description": "Streamline interplanetary travel operations with a modern dashboard that integrates marketing, sales, customer support, and finance for VoyageVista employees.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
